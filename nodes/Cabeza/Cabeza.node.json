@@ -1,0 +1,15 @@
+{
+	"node": "n8n-nodes-thilgen.cabeza",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"details": "",
+	"categories": ["Development", "Developer Tools"],
+	"resources": {
+		"primaryDocumentation": [
+			{
+				"url": "https://docs.n8n.io/integrations/builtin/core-nodes/n8n-nodes-base.cabeza/"
+			}
+		],
+		"generic": []
+	}
+}
